@@ -1,5 +1,5 @@
 # Talks-and-Lessons
-The purpose of this repository is to consolidate all my talks and lessons in one place. Alongside video recordings (when available) this will also continue all notebooks, additional Python files, media, and other information that one needs to learn from the talks. 
+The purpose of this repository is to consolidate all my talks and lessons in one place. Alongside video recordings (when available) this will also contain all notebooks, additional Python files, media, and other information that one needs to learn from the talks. 
 
 The following are links to my recorded talks and lessons on YouTube:
 - [Talks and Stuffs](https://www.youtube.com/watch?v=p26Ax6en0_c&list=PLT3sJRyVaw-nP-t9F0yJe3wwklbzLNoGP)
